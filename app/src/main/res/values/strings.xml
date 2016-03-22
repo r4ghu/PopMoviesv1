@@ -15,4 +15,5 @@
     <string name="added_to_favorites">Added to Favorites</string>
     <string name="action_sort_by_favorite">Favorites</string>
     <string name="action_share">Share</string>
+    <!--<string name="tmdb_api_key">Your api key here</string>-->
 </resources>
